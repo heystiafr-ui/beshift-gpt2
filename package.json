@@ -1,0 +1,8 @@
+{
+  "name": "beshift-gpt",
+  "version": "1.0.0",
+  "description": "Be Shift Architect - Mega GPT",
+  "dependencies": {
+    "openai": "^4.0.0"
+  }
+}
